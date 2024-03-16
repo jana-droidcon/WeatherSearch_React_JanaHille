@@ -9,11 +9,27 @@ export default function Footer() {
         <a
           href="https://github.com/jana-droidcon"
           target="_blank"
-          rel="nooreferrer"
-        ></a>
-        Jana Hille from <a href="https://droidcon.com">droidcon</a>, and is on
-        <a href="" target="_blank" rel="nooreferrer"></a>Github, hosted on
-        <a href="" target="_blank" rel="nooreferrer"></a>Netlify.
+          rel="noreferrer"
+        >
+          Jana Hille
+        </a>{" "}
+        from <a href="https://droidcon.com">droidcon</a>, and is on
+        <a
+          href="https://github.com/jana-droidcon"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>
+        , hosted on
+        <a
+          href="https://github.com/jana-droidcon"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
+        </a>
+        .
       </p>
     </div>
   );
