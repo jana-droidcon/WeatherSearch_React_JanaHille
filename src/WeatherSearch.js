@@ -51,10 +51,10 @@ let form = (
     </header>
   </div>
 );
+
 if (loaded) {
   return (
     <div className="weather-app-data">
-      {form}
       <strong>{city}</strong>{" "}
       <div classname="weather-app-details">
         <p>
